@@ -3,7 +3,7 @@
 ### Segue o link para acessar o serviço REST do exercicios:
 
 Ex: 
-####Problema dos Palindromos:
+#### Problema dos Palindromos:
 http://localhost:3333/palindromos?numeroInicial=1789&numeroFinal=30000
 
 #### Problema das Notas:
